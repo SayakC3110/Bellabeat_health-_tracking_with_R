@@ -1,0 +1,5 @@
+"0","daily_activity <- read.csv(file= ""C:/Users/Sayak/Downloads/Bellabeat Data Project/Fitabase Data 4.12.16-5.12.16/dailyActivity_merged.csv"")"
+"0",""
+"0","daily_sleep <- read.csv(file= ""C:/Users/Sayak/Downloads/Bellabeat Data Project/Fitabase Data 4.12.16-5.12.16/sleepDay_merged.csv"")"
+"0",""
+"0","hourly_steps <- read.csv(file= ""C:/Users/Sayak/Downloads/Bellabeat Data Project/Fitabase Data 4.12.16-5.12.16/hourlySteps_merged.csv"")"
